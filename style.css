@@ -65,6 +65,9 @@
         position: relative;
         top: -0.5em; }
 
+.sexytabs .contents {
+  background: url("./bg-purple.jpg"); }
+
 .sexytabs.dark > ul {
   border-bottom-color: rgba(255, 255, 255, 0.3); }
   .sexytabs.dark > ul > li {
